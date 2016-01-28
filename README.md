@@ -1,4 +1,4 @@
-Caltalog of Kata 
+Catalog of Kata 
 ==============
 
 #### Legacy refactoring
