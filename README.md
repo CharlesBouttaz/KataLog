@@ -7,6 +7,7 @@ Caltalog of Kata
 - [Programing in styles](https://github.com/crista/exercises-in-programming-style)
 - [Trip service](https://github.com/sandromancuso/trip-service-kata)
 - [Quotebot](https://github.com/cyriux/legacy-testing-kata-java)
+- [Trivia Game](https://github.com/jbrains/trivia)
 
 #### TDD
 - [Mars Rover](http://www.techinterviewpuzzles.com/2010/09/mars-rovers-thoughtworks-puzzles.html)
