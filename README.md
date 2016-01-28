@@ -8,6 +8,7 @@ Catalog of Kata
 - [Trip service](https://github.com/sandromancuso/trip-service-kata)
 - [Quotebot](https://github.com/cyriux/legacy-testing-kata-java)
 - [Trivia Game](https://github.com/jbrains/trivia)
+- [Racing Cars](https://github.com/emilybache/Racing-Car-Katas)
 
 #### TDD
 - [Mars Rover](http://www.techinterviewpuzzles.com/2010/09/mars-rovers-thoughtworks-puzzles.html)
@@ -17,6 +18,9 @@ Catalog of Kata
 - [Elephant Carpaccio](https://docs.google.com/document/d/1TCuuu-8Mm14oxsOnlk8DqfZAA1cvtYu9WGv67Yj_sSk/pub) : Story slicing 
 - [Tic Tac Toe](http://fr.slideshare.net/pkofler/baby-steps-34874184) : Baby Steps 
 - [Roman numerals](http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals) ([video](https://www.youtube.com/watch?v=iZjgj1S0FCY#t=120)) ([video2](http://blog.coreyhaines.com/2012/12/roman-numerals-kata-with-commentary.html))
+- [Coffee Machine](http://simcap.github.io/coffeemachine/)
+- [Conway's Game of Life](http://coderetreat.org/gol)
+- [String Calculator](http://osherove.com/tdd-kata-1/)
 
 #### Constraints
 
