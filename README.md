@@ -9,6 +9,7 @@ Catalog of Kata
 - [Quotebot](https://github.com/cyriux/legacy-testing-kata-java)
 - [Trivia Game](https://github.com/jbrains/trivia)
 - [Racing Cars](https://github.com/emilybache/Racing-Car-Katas)
+- [Mikado Method](https://github.com/mikadomethod)
 
 #### TDD
 - [Mars Rover](http://www.techinterviewpuzzles.com/2010/09/mars-rovers-thoughtworks-puzzles.html)
@@ -21,6 +22,7 @@ Catalog of Kata
 - [Coffee Machine](http://simcap.github.io/coffeemachine/)
 - [Conway's Game of Life](http://coderetreat.org/gol)
 - [String Calculator](http://osherove.com/tdd-kata-1/)
+- [Uncle Bob's Prime Factors Kata](http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata)
 
 #### Constraints
 
@@ -31,3 +33,7 @@ Catalog of Kata
 - [Fruit Shop](https://speakerdeck.com/jeanlaurent/fruitshop) Encourage bad code
 - [The Cash Register](https://gist.github.com/searls/1202077) Problems of fragile tests
 
+#### Other catalogs
+- [CodingDojo.org](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
+- [https://github.com/garora/TDD-Katas](https://github.com/garora/TDD-Katas)
+- [cyber-dojo.org](https://github.com/JonJagger/cyber-dojo/tree/master/exercises)
