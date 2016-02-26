@@ -25,9 +25,11 @@ Catalog of Kata
 - [Uncle Bob's Prime Factors Kata](http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata)
 
 #### Constraints
-
 - [Transformation Priority Promise](http://blog.8thlight.com/micah-martin/2012/11/17/transformation-priority-premise-applied.html) 
 - [Object Calistenics](https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf) 
+
+#### SOLID
+- [Open Closed Principle](https://github.com/cbouttaz/KataLog.git) FizzBuzz + Bowling
 
 #### Building legacy
 - [Fruit Shop](https://speakerdeck.com/jeanlaurent/fruitshop) Encourage bad code
