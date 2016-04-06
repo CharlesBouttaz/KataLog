@@ -10,6 +10,7 @@ Catalog of Kata
 - [Trivia Game](https://github.com/jbrains/trivia)
 - [Racing Cars](https://github.com/emilybache/Racing-Car-Katas)
 - [Mikado Method](https://github.com/mikadomethod)
+- [Hexagonal Architecture](http://matteo.vaccari.name/blog/archives/154)
 
 #### TDD
 - [Mars Rover](http://www.techinterviewpuzzles.com/2010/09/mars-rovers-thoughtworks-puzzles.html)
